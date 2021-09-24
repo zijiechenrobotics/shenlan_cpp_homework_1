@@ -8,7 +8,7 @@
 
 ### 作业思路
 
-<img src="/media/kris/Data/shenlan_cpp/section_3/cpp_homework_1/figures/mind.png" alt="mind" style="zoom:50%;" />
+<img src="figures/mind.png" alt="mind" style="zoom:50%;" />
 
 ### 实验结果
 
