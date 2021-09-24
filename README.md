@@ -8,7 +8,7 @@
 
 ### 作业思路
 
-<img src="figures/mind.png" alt="mind" style="zoom:50%;" />
+<img src="figures/mind.png" alt="mind" style="zoom: 25%;" />
 
 ### 实验结果
 
